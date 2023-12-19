@@ -1,5 +1,5 @@
 components:
-    enter screen/button
+    *enter screen/button
     album header
     song header
     album playback buttons (prev, next)
