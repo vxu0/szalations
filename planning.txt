@@ -1,0 +1,10 @@
+components:
+    enter screen/button
+    album header
+    song header
+    album playback buttons (prev, next)
+    song playback buttons (rewind, pause, ffwd)
+    song track (current time, track, song duration)
+    song bar
+    floaters
+    
